@@ -16,6 +16,4 @@ By combining Continual Learning and Federated Learning we eliminated the need fo
 
 ## Research Paper as PDF
 
-[Final Research Paper mark: **73%**](Federated_Learning-report_Final.pdf)
-
-[Some title here](FILE_NAME.pdf)
+[Final Research Paper (mark: **73%**)](Federated_Learning-report_Final.pdf)
